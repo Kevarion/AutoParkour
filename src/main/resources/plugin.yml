@@ -1,0 +1,6 @@
+name: AutoParkour
+version: '1.0'
+main: net.kevarion.autoParkour.AutoParkour
+api-version: '1.21'
+authors: [ Kevarion ]
+description: An auto-parkour plugin
